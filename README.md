@@ -29,7 +29,7 @@ Combines signals from the earlier stages into a single risk score per individual
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Surveillance&slugs=opencv,pytorch,python" alt="tech stack orbit" width="380" />
+<img src="https://tech-orbit.wontory.dev/api?title=Surveillance&tech=opencv,pytorch,python&size=420&duration=20" alt="tech stack orbit" width="420" />
 </div>
 
 OpenCV for video and frame handling, PyTorch based detection and pose models, and a custom tracking and scoring layer connecting each stage.
